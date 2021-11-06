@@ -17,12 +17,12 @@ trying to make it a habit :fire:
 
 </br>
 <b>I'm interested in this these days...
-
+</br>
 :memo: <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Compose-000000?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Android&logoColor=white"/></a>
 
 
-</br>
+</br></br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gandarlpu&theme=default&show_icons=true)
